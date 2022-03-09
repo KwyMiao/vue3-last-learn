@@ -1,5 +1,7 @@
 # vue3-last-learn
 
+个人学习模板，基于VUE3的脚手架开发
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
